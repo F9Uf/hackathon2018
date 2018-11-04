@@ -1,9 +1,9 @@
 import sys
 import operator
 
-# file = open("D:\python project\hackathon2018\q2\sample-p2.1.in","r", encoding="utf8")
+file = open("D:\python project\hackathon2018\q2\sample-p2.1.in","r", encoding="utf8")
 
-file = sys.stdin
+# file = sys.stdin
 
 head = file.readline()
 
